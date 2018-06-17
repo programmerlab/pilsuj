@@ -1,0 +1,268 @@
+
+---Downloaded files---
+The import files for: Demo Homepage 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://md.stagingclientserver.com/wp
+Data file = /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/demo-content.xml
+Widget file = /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+topdeal_theme -> /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Filter Products by Attribute - Color - Imported to Inactive
+Filter Products by Attribute - Size - Imported to Inactive
+Filter Products by Price - Price - Imported to Inactive
+
+orphaned_widgets_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Imported to Inactive
+
+orphaned_widgets_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+sw_woo_search - No Title - Site does not support widget
+
+top2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Categories - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Recent Posts - Recent Post - Imported to Inactive
+
+top9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+WooCommerce Currency Converter - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Navigation Menu - My Account - Imported to Inactive
+SW Top Widget - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+
+top10 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - My account - Imported to Inactive
+SW Top Widget - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+
+contact-us : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - My account - Imported to Inactive
+SW Top Widget - No Title - Imported to Inactive
+WooCommerce Currency Converter - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+
+header-right4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Imported to Inactive
+SW Top Widget - No Title - Imported to Inactive
+
+header-right6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+SW Top Widget - No Title - Imported to Inactive
+Navigation Menu - No Title - Imported to Inactive
+
+header-right9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+SW Top Widget - No Title - Imported to Inactive
+Navigation Menu - No Title - Imported to Inactive
+
+mid-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+banner-mobile : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+WooCommerce Currency Converter - No Title - Imported to Inactive
+
+Sidebar Left Blog : 
+
+Categories - No Title - Imported
+Image - No Title - Imported
+Sw Responsive Slider Widget - No Title - Imported
+
+Sidebar Right Blog : 
+
+Categories - No Title - Imported
+Image - No Title - Imported
+Sw Responsive Slider Widget - No Title - Imported
+
+Top Sale Header : 
+
+Text - No Title - Imported
+
+Top Header : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+
+Header Block : 
+
+Text - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Left : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+sw_woo_search - No Title - Site does not support widget
+
+Header Bar : 
+
+Navigation Menu - No Title - Imported
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Price - By price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Image - No Title - Imported
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Price - By Price - Imported
+Image - No Title - Imported
+
+Sidebar Left Detail Product : 
+
+Sw Woo Slider widget - No Title - Imported
+Image - No Title - Imported
+
+Sidebar Right Detail Product : 
+
+Sw Woo Slider widget - No Title - Imported
+Image - No Title - Imported
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Bottom Detail Product Mobile : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Filter Mobile : 
+
+Filter Products by Price - Price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+
+Widget Search : 
+
+sw_woo_search - No Title - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+array(10) {
+  ["import_file_name"]=>
+  string(15) "Demo Homepage 1"
+  ["page_title"]=>
+  string(4) "Home"
+  ["local_import_file"]=>
+  string(90) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/demo-content.xml"
+  ["local_import_widget_file"]=>
+  string(86) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/widgets.json"
+  ["local_import_revslider"]=>
+  array(1) {
+    ["slide1"]=>
+    string(85) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/slider1.zip"
+  }
+  ["local_import_options"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["file_path"]=>
+      string(91) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-1/theme_options.txt"
+      ["option_name"]=>
+      string(13) "topdeal_theme"
+    }
+  }
+  ["menu_locate"]=>
+  array(2) {
+    ["primary_menu"]=>
+    string(12) "Primary Menu"
+    ["vertical_menu"]=>
+    string(13) "Verticle Menu"
+  }
+  ["import_preview_image_url"]=>
+  string(95) "http://md.stagingclientserver.com/wp/wp-content/themes/topdeal/lib/import/demo-1/screenshot.png"
+  ["import_notice"]=>
+  string(114) "After you import this demo, you will have to setup the slider separately. This import maybe finish on 5-10 minutes"
+  ["preview_url"]=>
+  string(52) "http://demo.wpthemego.com/themes/sw_topdeal/layout1/"
+}
+

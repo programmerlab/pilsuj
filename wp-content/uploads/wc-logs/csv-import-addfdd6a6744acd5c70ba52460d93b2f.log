@@ -1,0 +1,414 @@
+2018-04-14T15:29:47+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2018-04-14T15:29:47+00:00 DEBUG Parsing products CSV.
+2018-04-14T15:29:47+00:00 DEBUG Finished parsing products CSV.
+2018-04-14T15:29:47+00:00 DEBUG ---
+2018-04-14T15:29:47+00:00 DEBUG Processing products.
+2018-04-14T15:29:47+00:00 DEBUG > Row 1 - preparing for merge.
+2018-04-14T15:29:47+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:29:47+00:00 DEBUG > Row 1 - preparing for import.
+2018-04-14T15:29:47+00:00 DEBUG > Inserting Sundor ar Bhalo
+2018-04-14T15:29:47+00:00 DEBUG > Inserted - post ID is 4241.
+2018-04-14T15:29:47+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:29:57+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:29:57+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:29:57+00:00 DEBUG > > Images set
+2018-04-14T15:29:57+00:00 DEBUG > Finished importing post ID 4241.
+2018-04-14T15:29:57+00:00 DEBUG > Row 2 - preparing for merge.
+2018-04-14T15:29:57+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:29:57+00:00 DEBUG > Row 2 - preparing for import.
+2018-04-14T15:29:57+00:00 DEBUG > Inserting Satrang
+2018-04-14T15:29:57+00:00 DEBUG > Inserted - post ID is 4242.
+2018-04-14T15:29:57+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:15+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:15+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:30:15+00:00 DEBUG > > Images set
+2018-04-14T15:30:15+00:00 DEBUG > Finished importing post ID 4242.
+2018-04-14T15:30:15+00:00 DEBUG > Row 3 - preparing for merge.
+2018-04-14T15:30:15+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:30:15+00:00 DEBUG > Row 3 - preparing for import.
+2018-04-14T15:30:15+00:00 DEBUG > Inserting BHUTPATRIR DESH
+2018-04-14T15:30:15+00:00 DEBUG > Inserted - post ID is 4243.
+2018-04-14T15:30:16+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:26+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:26+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:30:26+00:00 DEBUG > > Images set
+2018-04-14T15:30:26+00:00 DEBUG > Finished importing post ID 4243.
+2018-04-14T15:30:26+00:00 DEBUG > Row 4 - preparing for merge.
+2018-04-14T15:30:26+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:30:26+00:00 DEBUG > Row 4 - preparing for import.
+2018-04-14T15:30:26+00:00 DEBUG > Inserting Shrestha Abanindranath
+2018-04-14T15:30:26+00:00 DEBUG > Inserted - post ID is 4244.
+2018-04-14T15:30:28+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:38+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:38+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:30:38+00:00 DEBUG > > Images set
+2018-04-14T15:30:38+00:00 DEBUG > Finished importing post ID 4244.
+2018-04-14T15:30:38+00:00 DEBUG > Row 5 - preparing for merge.
+2018-04-14T15:30:38+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:30:38+00:00 DEBUG > Row 5 - preparing for import.
+2018-04-14T15:30:38+00:00 DEBUG > Inserting Global Warming
+2018-04-14T15:30:38+00:00 DEBUG > Inserted - post ID is 4245.
+2018-04-14T15:30:39+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:49+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:49+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:30:49+00:00 DEBUG > > Images set
+2018-04-14T15:30:49+00:00 DEBUG > Finished importing post ID 4245.
+2018-04-14T15:30:49+00:00 DEBUG > Row 6 - preparing for merge.
+2018-04-14T15:30:49+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:30:49+00:00 DEBUG > Row 6 - preparing for import.
+2018-04-14T15:30:49+00:00 DEBUG > Inserting Sanket Rahasya
+2018-04-14T15:30:49+00:00 DEBUG > Inserted - post ID is 4246.
+2018-04-14T15:30:49+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:59+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:30:59+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:30:59+00:00 DEBUG > > Images set
+2018-04-14T15:30:59+00:00 DEBUG > Finished importing post ID 4246.
+2018-04-14T15:30:59+00:00 DEBUG > Row 7 - preparing for merge.
+2018-04-14T15:30:59+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:30:59+00:00 DEBUG > Row 7 - preparing for import.
+2018-04-14T15:30:59+00:00 DEBUG > Inserting Majhe Matro Chobbish Din
+2018-04-14T15:31:00+00:00 DEBUG > Inserted - post ID is 4247.
+2018-04-14T15:31:00+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:10+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:10+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:31:10+00:00 DEBUG > > Images set
+2018-04-14T15:31:10+00:00 DEBUG > Finished importing post ID 4247.
+2018-04-14T15:31:10+00:00 DEBUG > Row 8 - preparing for merge.
+2018-04-14T15:31:10+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:31:10+00:00 DEBUG > Row 8 - preparing for import.
+2018-04-14T15:31:10+00:00 DEBUG > Inserting Rahasya Jakhan Darwin
+2018-04-14T15:31:10+00:00 DEBUG > Inserted - post ID is 4248.
+2018-04-14T15:31:11+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:21+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:21+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:31:21+00:00 DEBUG > > Images set
+2018-04-14T15:31:21+00:00 DEBUG > Finished importing post ID 4248.
+2018-04-14T15:31:21+00:00 DEBUG > Row 9 - preparing for merge.
+2018-04-14T15:31:21+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:31:21+00:00 DEBUG > Row 9 - preparing for import.
+2018-04-14T15:31:21+00:00 DEBUG > Inserting Kaw Rahosyo
+2018-04-14T15:31:21+00:00 DEBUG > Inserted - post ID is 4249.
+2018-04-14T15:31:22+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:32+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:32+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:31:32+00:00 DEBUG > > Images set
+2018-04-14T15:31:32+00:00 DEBUG > Finished importing post ID 4249.
+2018-04-14T15:31:32+00:00 DEBUG Finished processing products.
+2018-04-14T15:31:48+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2018-04-14T15:31:48+00:00 DEBUG Parsing products CSV.
+2018-04-14T15:31:48+00:00 DEBUG Finished parsing products CSV.
+2018-04-14T15:31:48+00:00 DEBUG ---
+2018-04-14T15:31:48+00:00 DEBUG Processing products.
+2018-04-14T15:31:48+00:00 DEBUG > Row 1 - preparing for merge.
+2018-04-14T15:31:48+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:31:48+00:00 DEBUG > Row 1 - preparing for import.
+2018-04-14T15:31:48+00:00 DEBUG > Inserting BHOUTIK ALOUKIK
+2018-04-14T15:31:49+00:00 DEBUG > Inserted - post ID is 4250.
+2018-04-14T15:31:49+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:59+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:31:59+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:31:59+00:00 DEBUG > > Images set
+2018-04-14T15:31:59+00:00 DEBUG > Finished importing post ID 4250.
+2018-04-14T15:31:59+00:00 DEBUG > Row 2 - preparing for merge.
+2018-04-14T15:31:59+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:31:59+00:00 DEBUG > Row 2 - preparing for import.
+2018-04-14T15:31:59+00:00 DEBUG > Inserting SOB LOGICER BAIRE
+2018-04-14T15:32:00+00:00 DEBUG > Inserted - post ID is 4251.
+2018-04-14T15:32:00+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:10+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:10+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:32:10+00:00 DEBUG > > Images set
+2018-04-14T15:32:10+00:00 DEBUG > Finished importing post ID 4251.
+2018-04-14T15:32:10+00:00 DEBUG > Row 3 - preparing for merge.
+2018-04-14T15:32:10+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:32:10+00:00 DEBUG > Row 3 - preparing for import.
+2018-04-14T15:32:10+00:00 DEBUG > Inserting Makarsha Atanka
+2018-04-14T15:32:10+00:00 DEBUG > Inserted - post ID is 4252.
+2018-04-14T15:32:11+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:21+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:21+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:32:21+00:00 DEBUG > > Images set
+2018-04-14T15:32:21+00:00 DEBUG > Finished importing post ID 4252.
+2018-04-14T15:32:21+00:00 DEBUG > Row 4 - preparing for merge.
+2018-04-14T15:32:21+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:32:21+00:00 DEBUG > Row 4 - preparing for import.
+2018-04-14T15:32:21+00:00 DEBUG > Inserting Superman Bikramjit
+2018-04-14T15:32:21+00:00 DEBUG > Inserted - post ID is 4253.
+2018-04-14T15:32:22+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:32+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:32+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:32:32+00:00 DEBUG > > Images set
+2018-04-14T15:32:32+00:00 DEBUG > Finished importing post ID 4253.
+2018-04-14T15:32:32+00:00 DEBUG > Row 5 - preparing for merge.
+2018-04-14T15:32:32+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:32:32+00:00 DEBUG > Row 5 - preparing for import.
+2018-04-14T15:32:32+00:00 DEBUG > Inserting Asajhya Suspense 2
+2018-04-14T15:32:34+00:00 DEBUG > Inserted - post ID is 4254.
+2018-04-14T15:32:35+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:45+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:45+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:32:45+00:00 DEBUG > > Images set
+2018-04-14T15:32:45+00:00 DEBUG > Finished importing post ID 4254.
+2018-04-14T15:32:45+00:00 DEBUG > Row 6 - preparing for merge.
+2018-04-14T15:32:45+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:32:45+00:00 DEBUG > Row 6 - preparing for import.
+2018-04-14T15:32:45+00:00 DEBUG > Inserting Sera Kalpabijyan Omnibas
+2018-04-14T15:32:46+00:00 DEBUG > Inserted - post ID is 4255.
+2018-04-14T15:32:46+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:56+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:32:56+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:32:56+00:00 DEBUG > > Images set
+2018-04-14T15:32:56+00:00 DEBUG > Finished importing post ID 4255.
+2018-04-14T15:32:56+00:00 DEBUG > Row 7 - preparing for merge.
+2018-04-14T15:32:56+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:32:56+00:00 DEBUG > Row 7 - preparing for import.
+2018-04-14T15:32:56+00:00 DEBUG > Inserting Asajhya Suspense 3
+2018-04-14T15:32:56+00:00 DEBUG > Inserted - post ID is 4256.
+2018-04-14T15:32:57+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:07+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:07+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:33:07+00:00 DEBUG > > Images set
+2018-04-14T15:33:07+00:00 DEBUG > Finished importing post ID 4256.
+2018-04-14T15:33:07+00:00 DEBUG > Row 8 - preparing for merge.
+2018-04-14T15:33:07+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:33:07+00:00 DEBUG > Row 8 - preparing for import.
+2018-04-14T15:33:07+00:00 DEBUG > Inserting Bish Rohosyo
+2018-04-14T15:33:07+00:00 DEBUG > Inserted - post ID is 4257.
+2018-04-14T15:33:08+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:18+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:18+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:33:18+00:00 DEBUG > > Images set
+2018-04-14T15:33:18+00:00 DEBUG > Finished importing post ID 4257.
+2018-04-14T15:33:18+00:00 DEBUG > Row 9 - preparing for merge.
+2018-04-14T15:33:18+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:33:18+00:00 DEBUG > Row 9 - preparing for import.
+2018-04-14T15:33:18+00:00 DEBUG > Inserting Panchti Rahasya Upanyas
+2018-04-14T15:33:18+00:00 DEBUG > Inserted - post ID is 4258.
+2018-04-14T15:33:18+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:30+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:30+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:33:30+00:00 DEBUG > > Images set
+2018-04-14T15:33:30+00:00 DEBUG > Finished importing post ID 4258.
+2018-04-14T15:33:30+00:00 DEBUG > Row 10 - preparing for merge.
+2018-04-14T15:33:30+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:33:30+00:00 DEBUG > Row 10 - preparing for import.
+2018-04-14T15:33:30+00:00 DEBUG > Inserting Asajhya Suspense 1
+2018-04-14T15:33:30+00:00 DEBUG > Inserted - post ID is 4259.
+2018-04-14T15:33:30+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:39+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:39+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:33:39+00:00 DEBUG > > Images set
+2018-04-14T15:33:39+00:00 DEBUG > Finished importing post ID 4259.
+2018-04-14T15:33:39+00:00 DEBUG Finished processing products.
+2018-04-14T15:33:44+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2018-04-14T15:33:44+00:00 DEBUG Parsing products CSV.
+2018-04-14T15:33:44+00:00 DEBUG Finished parsing products CSV.
+2018-04-14T15:33:44+00:00 DEBUG ---
+2018-04-14T15:33:44+00:00 DEBUG Processing products.
+2018-04-14T15:33:44+00:00 DEBUG > Row 1 - preparing for merge.
+2018-04-14T15:33:44+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:33:44+00:00 DEBUG > Row 1 - preparing for import.
+2018-04-14T15:33:44+00:00 DEBUG > Inserting SERA GOENDA UPANYAS
+2018-04-14T15:33:44+00:00 DEBUG > Inserted - post ID is 4260.
+2018-04-14T15:33:44+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:53+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:33:53+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:33:53+00:00 DEBUG > > Images set
+2018-04-14T15:33:53+00:00 DEBUG > Finished importing post ID 4260.
+2018-04-14T15:33:53+00:00 DEBUG > Row 2 - preparing for merge.
+2018-04-14T15:33:53+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:33:53+00:00 DEBUG > Row 2 - preparing for import.
+2018-04-14T15:33:53+00:00 DEBUG > Inserting Romanchakar Dhumketu
+2018-04-14T15:33:54+00:00 DEBUG > Inserted - post ID is 4261.
+2018-04-14T15:33:54+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:04+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:04+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:34:04+00:00 DEBUG > > Images set
+2018-04-14T15:34:04+00:00 DEBUG > Finished importing post ID 4261.
+2018-04-14T15:34:04+00:00 DEBUG > Row 3 - preparing for merge.
+2018-04-14T15:34:04+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:34:04+00:00 DEBUG > Row 3 - preparing for import.
+2018-04-14T15:34:04+00:00 DEBUG > Inserting Sahaj Kathay Internet
+2018-04-14T15:34:04+00:00 DEBUG > Inserted - post ID is 4262.
+2018-04-14T15:34:05+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:18+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:18+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:34:18+00:00 DEBUG > > Images set
+2018-04-14T15:34:18+00:00 DEBUG > Finished importing post ID 4262.
+2018-04-14T15:34:18+00:00 DEBUG > Row 4 - preparing for merge.
+2018-04-14T15:34:18+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:34:18+00:00 DEBUG > Row 4 - preparing for import.
+2018-04-14T15:34:18+00:00 DEBUG > Inserting Sahaj Kathay Robot
+2018-04-14T15:34:18+00:00 DEBUG > Inserted - post ID is 4263.
+2018-04-14T15:34:18+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:33+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:33+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:34:33+00:00 DEBUG > > Images set
+2018-04-14T15:34:34+00:00 DEBUG > Finished importing post ID 4263.
+2018-04-14T15:34:34+00:00 DEBUG > Row 5 - preparing for merge.
+2018-04-14T15:34:34+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:34:34+00:00 DEBUG > Row 5 - preparing for import.
+2018-04-14T15:34:34+00:00 DEBUG > Inserting Kemon Kore Kaj Kare Jantra
+2018-04-14T15:34:34+00:00 DEBUG > Inserted - post ID is 4264.
+2018-04-14T15:34:34+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:44+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:44+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:34:44+00:00 DEBUG > > Images set
+2018-04-14T15:34:44+00:00 DEBUG > Finished importing post ID 4264.
+2018-04-14T15:34:44+00:00 DEBUG > Row 6 - preparing for merge.
+2018-04-14T15:34:44+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:34:44+00:00 DEBUG > Row 6 - preparing for import.
+2018-04-14T15:34:44+00:00 DEBUG > Inserting Pi Niye Rupkatha
+2018-04-14T15:34:44+00:00 DEBUG > Inserted - post ID is 4265.
+2018-04-14T15:34:44+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:53+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:34:53+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:34:53+00:00 DEBUG > > Images set
+2018-04-14T15:34:53+00:00 DEBUG > Finished importing post ID 4265.
+2018-04-14T15:34:53+00:00 DEBUG > Row 7 - preparing for merge.
+2018-04-14T15:34:53+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:34:53+00:00 DEBUG > Row 7 - preparing for import.
+2018-04-14T15:34:53+00:00 DEBUG > Inserting Bijnaner Harekrakam
+2018-04-14T15:34:53+00:00 DEBUG > Inserted - post ID is 4266.
+2018-04-14T15:34:54+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:05+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:05+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:35:05+00:00 DEBUG > > Images set
+2018-04-14T15:35:05+00:00 DEBUG > Finished importing post ID 4266.
+2018-04-14T15:35:05+00:00 DEBUG > Row 8 - preparing for merge.
+2018-04-14T15:35:05+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:35:05+00:00 DEBUG > Row 8 - preparing for import.
+2018-04-14T15:35:05+00:00 DEBUG > Inserting Dekha Jay Na, Shona Jay
+2018-04-14T15:35:05+00:00 DEBUG > Inserted - post ID is 4267.
+2018-04-14T15:35:06+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:16+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:16+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:35:16+00:00 DEBUG > > Images set
+2018-04-14T15:35:16+00:00 DEBUG > Finished importing post ID 4267.
+2018-04-14T15:35:16+00:00 DEBUG > Row 9 - preparing for merge.
+2018-04-14T15:35:16+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:35:16+00:00 DEBUG > Row 9 - preparing for import.
+2018-04-14T15:35:16+00:00 DEBUG > Inserting Bhoutik Aloukik
+2018-04-14T15:35:17+00:00 DEBUG > Inserted - post ID is 4268.
+2018-04-14T15:35:17+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:27+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:27+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:35:27+00:00 DEBUG > > Images set
+2018-04-14T15:35:27+00:00 DEBUG > Finished importing post ID 4268.
+2018-04-14T15:35:27+00:00 DEBUG > Row 10 - preparing for merge.
+2018-04-14T15:35:27+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:35:27+00:00 DEBUG > Row 10 - preparing for import.
+2018-04-14T15:35:27+00:00 DEBUG > Inserting Bhaypatal
+2018-04-14T15:35:27+00:00 DEBUG > Inserted - post ID is 4269.
+2018-04-14T15:35:28+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:40+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:35:40+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:35:40+00:00 DEBUG > > Images set
+2018-04-14T15:35:40+00:00 DEBUG > Finished importing post ID 4269.
+2018-04-14T15:35:40+00:00 DEBUG Finished processing products.
+2018-04-14T15:35:45+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2018-04-14T15:35:45+00:00 DEBUG Parsing products CSV.
+2018-04-14T15:35:45+00:00 DEBUG Finished parsing products CSV.
+2018-04-14T15:35:45+00:00 DEBUG ---
+2018-04-14T15:35:45+00:00 DEBUG Processing products.
+2018-04-14T15:35:45+00:00 DEBUG > Row 1 - preparing for merge.
+2018-04-14T15:35:45+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:35:45+00:00 DEBUG > Row 1 - preparing for import.
+2018-04-14T15:35:45+00:00 DEBUG > Inserting Bishwer Sera Bhayankar Bhuter Galpa
+2018-04-14T15:35:46+00:00 DEBUG > Inserted - post ID is 4270.
+2018-04-14T15:35:46+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:00+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:00+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:36:00+00:00 DEBUG > > Images set
+2018-04-14T15:36:00+00:00 DEBUG > Finished importing post ID 4270.
+2018-04-14T15:36:00+00:00 DEBUG > Row 2 - preparing for merge.
+2018-04-14T15:36:00+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:36:00+00:00 DEBUG > Row 2 - preparing for import.
+2018-04-14T15:36:00+00:00 DEBUG > Inserting Kishore Kalpabijnan Samagra
+2018-04-14T15:36:00+00:00 DEBUG > Inserted - post ID is 4271.
+2018-04-14T15:36:01+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:15+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:15+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:36:15+00:00 DEBUG > > Images set
+2018-04-14T15:36:15+00:00 DEBUG > Finished importing post ID 4271.
+2018-04-14T15:36:15+00:00 DEBUG > Row 3 - preparing for merge.
+2018-04-14T15:36:15+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:36:15+00:00 DEBUG > Row 3 - preparing for import.
+2018-04-14T15:36:15+00:00 DEBUG > Inserting Teish Ghonta Shaat Minute
+2018-04-14T15:36:15+00:00 DEBUG > Inserted - post ID is 4272.
+2018-04-14T15:36:16+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:34+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:34+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:36:34+00:00 DEBUG > > Images set
+2018-04-14T15:36:34+00:00 DEBUG > Finished importing post ID 4272.
+2018-04-14T15:36:34+00:00 DEBUG > Row 4 - preparing for merge.
+2018-04-14T15:36:34+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:36:34+00:00 DEBUG > Row 4 - preparing for import.
+2018-04-14T15:36:34+00:00 DEBUG > Inserting Panchti Rahasya Upanyas
+2018-04-14T15:36:34+00:00 DEBUG > Inserted - post ID is 4273.
+2018-04-14T15:36:34+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:46+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:46+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:36:46+00:00 DEBUG > > Images set
+2018-04-14T15:36:46+00:00 DEBUG > Finished importing post ID 4273.
+2018-04-14T15:36:46+00:00 DEBUG > Row 5 - preparing for merge.
+2018-04-14T15:36:46+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:36:46+00:00 DEBUG > Row 5 - preparing for import.
+2018-04-14T15:36:46+00:00 DEBUG > Inserting Bhutnather Diary
+2018-04-14T15:36:47+00:00 DEBUG > Inserted - post ID is 4274.
+2018-04-14T15:36:47+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:56+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:36:56+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:36:56+00:00 DEBUG > > Images set
+2018-04-14T15:36:56+00:00 DEBUG > Finished importing post ID 4274.
+2018-04-14T15:36:56+00:00 DEBUG > Row 6 - preparing for merge.
+2018-04-14T15:36:56+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:36:56+00:00 DEBUG > Row 6 - preparing for import.
+2018-04-14T15:36:56+00:00 DEBUG > Inserting Sera Science Fiction Samagro
+2018-04-14T15:36:56+00:00 DEBUG > Inserted - post ID is 4275.
+2018-04-14T15:36:56+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:15+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:15+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:37:15+00:00 DEBUG > > Images set
+2018-04-14T15:37:15+00:00 DEBUG > Finished importing post ID 4275.
+2018-04-14T15:37:15+00:00 DEBUG > Row 7 - preparing for merge.
+2018-04-14T15:37:15+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:37:15+00:00 DEBUG > Row 7 - preparing for import.
+2018-04-14T15:37:15+00:00 DEBUG > Inserting Shaat Minit Teish Ghonta
+2018-04-14T15:37:15+00:00 DEBUG > Inserted - post ID is 4276.
+2018-04-14T15:37:16+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:26+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:26+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:37:26+00:00 DEBUG > > Images set
+2018-04-14T15:37:26+00:00 DEBUG > Finished importing post ID 4276.
+2018-04-14T15:37:26+00:00 DEBUG > Row 8 - preparing for merge.
+2018-04-14T15:37:26+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:37:26+00:00 DEBUG > Row 8 - preparing for import.
+2018-04-14T15:37:26+00:00 DEBUG > Inserting ASARIRI BHAYONKAR
+2018-04-14T15:37:26+00:00 DEBUG > Inserted - post ID is 4277.
+2018-04-14T15:37:26+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:44+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:44+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:37:44+00:00 DEBUG > > Images set
+2018-04-14T15:37:44+00:00 DEBUG > Finished importing post ID 4277.
+2018-04-14T15:37:44+00:00 DEBUG > Row 9 - preparing for merge.
+2018-04-14T15:37:44+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:37:44+00:00 DEBUG > Row 9 - preparing for import.
+2018-04-14T15:37:44+00:00 DEBUG > Inserting LASHTALASH
+2018-04-14T15:37:44+00:00 DEBUG > Inserted - post ID is 4278.
+2018-04-14T15:37:44+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:58+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:37:58+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:37:58+00:00 DEBUG > > Images set
+2018-04-14T15:37:58+00:00 DEBUG > Finished importing post ID 4278.
+2018-04-14T15:37:58+00:00 DEBUG > Row 10 - preparing for merge.
+2018-04-14T15:37:58+00:00 DEBUG > > Cannot merge without id or sku. Importing instead.
+2018-04-14T15:37:58+00:00 DEBUG > Row 10 - preparing for import.
+2018-04-14T15:37:58+00:00 DEBUG > Inserting LASHTALASH
+2018-04-14T15:37:58+00:00 DEBUG > Inserted - post ID is 4279.
+2018-04-14T15:37:59+00:00 DEBUG > > Importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:38:09+00:00 DEBUG > > Error importing image "http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg, http://md.stagingclientserver.com/wp/wp-content/uploads/2018/04/sundor-ar-bhalo.jpg"
+2018-04-14T15:38:09+00:00 DEBUG > > Error getting remote image
+2018-04-14T15:38:09+00:00 DEBUG > > Images set
+2018-04-14T15:38:09+00:00 DEBUG > Finished importing post ID 4279.
+2018-04-14T15:38:09+00:00 DEBUG Finished processing products.

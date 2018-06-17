@@ -1,0 +1,79 @@
+2018-05-01T08:36:06+00:00 CRITICAL Call to undefined function topdeal_quickview()
+
+2018-06-02T04:33:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:34:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:34:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:34:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:34:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:34:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:8
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+
+2018-06-02T04:36:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_parmalink() in /home/pilsuj/pilsuj.com/public_html/wp-content/themes/topdeal/custom-function.php:9
+Stack trace:
+#0 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(319): wishlist_info_callback('', '', 'wishlist_info')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pilsuj/pilsuj.com/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(wishli...', 'do_shortcode_ta...', '[wishlist_info]')
+#3 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-hook.php(288): do_shortcode('[wishlist_info]')
+#4 /home/pilsuj/pilsuj.com/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters('[wishlist_info]', Array)
+#5 /home/pilsuj/pilsuj.com/public_html/wp-includes/widgets/class-wp-widget-text.php(270): apply_filters('widget_text', '[wishlist_info]', Array, Object(WP_Widget_Text))
+#6 /home/pilsuj/pilsuj.com/public_html/wp-includes/class-wp-widget.php(372): WP_Widget_Text->widget(Array, Array)
+#7 /home/pilsuj/pilsuj.com/publ
+

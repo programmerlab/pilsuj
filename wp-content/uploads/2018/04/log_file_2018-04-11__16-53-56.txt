@@ -1,0 +1,241 @@
+
+---Downloaded files---
+The import files for: Demo Homepage 2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://md.stagingclientserver.com/wp
+Data file = /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/demo-content.xml
+Widget file = /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/widgets.json
+Customizer file = not defined!
+Options files:
+topdeal_theme -> /home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Filter Products by Attribute - Color - Widget already exists
+Filter Products by Attribute - Size - Widget already exists
+Filter Products by Price - Price - Widget already exists
+
+orphaned_widgets_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Widget already exists
+
+orphaned_widgets_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+sw_woo_search - No Title - Site does not support widget
+
+top2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Categories - No Title - Widget already exists
+Text - No Title - Widget already exists
+Recent Posts - Recent Post - Widget already exists
+
+top9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+WooCommerce Currency Converter - No Title - Widget already exists
+Text - No Title - Widget already exists
+Navigation Menu - My Account - Widget already exists
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Imported to Inactive
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+top10 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - My account - Widget already exists
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+contact-us : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - My account - Widget already exists
+SW Top Widget - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+header-right4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Widget already exists
+SW Top Widget - No Title - Widget already exists
+
+header-right6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+
+header-right9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+
+mid-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Widget already exists
+
+banner-mobile : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+
+Bottom Detail Product Mobile : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Filter Mobile : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Left Blog : 
+
+Categories - No Title - Widget already exists
+Image - No Title - Widget already exists
+Sw Responsive Slider Widget - No Title - Widget already exists
+
+Sidebar Right Blog : 
+
+Categories - No Title - Widget already exists
+Image - No Title - Widget already exists
+Sw Responsive Slider Widget - No Title - Widget already exists
+
+Top Sale Header : 
+
+Text - No Title - Widget already exists
+
+Top Header : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Navigation Menu - My Account - Widget already exists
+SW Top Widget - No Title - Widget already exists
+
+Header Block : 
+
+Text - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Imported
+
+Header Left : 
+
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - My Account - Widget already exists
+SW Top Widget - No Title - Widget already exists
+sw_woo_search - No Title - Site does not support widget
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Filter Products by Price - By price - Widget already exists
+Filter Products by Attribute - Color - Widget already exists
+Filter Products by Attribute - Size - Imported
+Image - No Title - Widget already exists
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Filter Products by Price - By Price - Widget already exists
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Image - No Title - Widget already exists
+
+Sidebar Left Detail Product : 
+
+WooCommerce product categories - categories - Imported
+Image - No Title - Widget already exists
+
+Sidebar Right Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Image - No Title - Widget already exists
+
+Widget Search : 
+
+sw_woo_search - No Title - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+array(10) {
+  ["import_file_name"]=>
+  string(15) "Demo Homepage 2"
+  ["page_title"]=>
+  string(11) "Home Page 2"
+  ["local_import_file"]=>
+  string(90) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/demo-content.xml"
+  ["local_import_widget_file"]=>
+  string(86) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/widgets.json"
+  ["local_import_revslider"]=>
+  array(1) {
+    ["sldier2"]=>
+    string(85) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/sldier2.zip"
+  }
+  ["local_import_options"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["file_path"]=>
+      string(91) "/home/msujeet0/public_html/wp/wp-content/themes/topdeal/lib/import/demo-2/theme_options.txt"
+      ["option_name"]=>
+      string(13) "topdeal_theme"
+    }
+  }
+  ["menu_locate"]=>
+  array(2) {
+    ["primary_menu"]=>
+    string(12) "Primary Menu"
+    ["vertical_menu"]=>
+    string(13) "Verticle Menu"
+  }
+  ["import_preview_image_url"]=>
+  string(95) "http://md.stagingclientserver.com/wp/wp-content/themes/topdeal/lib/import/demo-2/screenshot.png"
+  ["import_notice"]=>
+  string(114) "After you import this demo, you will have to setup the slider separately. This import maybe finish on 5-10 minutes"
+  ["preview_url"]=>
+  string(52) "http://demo.wpthemego.com/themes/sw_topdeal/layout2/"
+}
+
